@@ -6,11 +6,11 @@ Code and implementation details of our paper `ScoreRec: Reallocating Probability
 
 ## Motivation
 
-![](https://github.com/AONE-NLP/ScoreRec/tree/main/ScoreRec/figure/Motivation.png)
+![](ScoreRec/figure/Motivation.png)
 
 ## Model Architecture
 
-![](https://github.com/AONE-NLP/ScoreRec/tree/main/ScoreRec/figure/model.jpg)
+![](ScoreRec/figure/model.jpg)
 
 ## Reproduce the results
 
